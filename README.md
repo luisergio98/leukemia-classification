@@ -21,6 +21,8 @@ With the Python environment installed, it will be necessary to <a href="https://
 
 With Jupyter installed, execute one of the two commands in the terminal of your Python environment to run Jupyter (on Anaconda it is possible to open directly from the list of applications if it is installed): <code> jupyter-lab </code> (recommended) or <code> jupyter notebook </code>. After running these, in the Jupyter file explorer select the file <b>leukemia_en_US.ipynb</b> to open the notebook and run the code.
 
+<b>If you just want to see the code and its explanation without having to running it, you can open the leukemia_en_US.ipynb file directly on Github byjust clicking on it.</b>
+
 <b>All the necessary images are already included in the project, performing image processing is optional.</b>
 
 Any questions or problems with the code I am available to contact.
@@ -44,6 +46,8 @@ Para que o código seja executado será necessário ter um ambiente Python como 
 Já com o ambiente Python instalado será necessário <a href="https://jupyter.org/install">instalar o Jupyter Notebook e/ou Jupyter Labs</a>. Com o notebook é possível acompanhar passo a passo o código com sua explicação, sendo o <b>Jupyter Labs o mais recomendado</b>, visto que nesse é possível acompanhar as saídas do terminal direto no notebook. De qualquer forma é possível executar diretamente o arquivo <b>leukemia.py</b> no seu ambiente e acompanhar as explicações no arquivo <b>relatorio.pdf</b>.
 
 Com o Jupyter instalado execute um dos dois comando no terminal do seu ambiente Python para executar o Jupyter (no caso do Anaconda é possível abrir direto da lista de aplicativos caso esteja instalado): <code>jupyter-lab</code> (recomendado) ou <code>jupyter notebook</code>. Após executar, no explorador de arquivos do Jupyter selecione o arquivo <b>leucemia_pt_BR.ipynb</b> para abrir o notebook e executar o código.
+
+<b>Caso você queira ver apenas o código e a sua expicação sem ter que efetivamente executá-lo, você pode abrir o arquivo leucemia_pt_BR.ipynb no Github apenas clicando nele.</b>
 
 <b>Todas as imagens necessárias já acompanham o projeto, executar o processamento das imagens é opcional.</b>
 
